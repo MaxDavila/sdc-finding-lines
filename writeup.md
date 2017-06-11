@@ -39,7 +39,6 @@ In order to draw a single line on the left and right lanes, I modified the draw_
 ![alt text][image4]
 ![alt text][image5]
 ![alt text][image6]
-![alt text][image7]
 
 #### The processed videos
 - [solid_white_right_video](https://youtu.be/qh0XiLDBGRU)
